@@ -1,7 +1,3 @@
-# git-github-demo
-This is repository for demo purpose
-
-
 # Git-Github-Demo
 This repository contains guide to demonstrate the practical demo of Git and GitHub.
 
