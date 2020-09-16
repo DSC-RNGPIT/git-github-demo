@@ -87,4 +87,5 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 [Raj Kharvar](https://github.com/rajkharvar)
 
 [Deep Mevada](https://github.com/DeepMevada)
-[Zubair-12] (https://github.com/Zubair-12)
+
+[Zubair-12](https://github.com/Zubair-12)
