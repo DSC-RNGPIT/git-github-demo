@@ -88,4 +88,8 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 
 [Deep Mevada](https://github.com/DeepMevada)
 
+<<<<<<< HEAD
 [Zubair-12](https://github.com/Zubair-12)
+=======
+[Zubair-12] (https://github.com/Zubair-12)
+>>>>>>> b030f107591cc42a5bb0cb7e4e970356fe494a9b
