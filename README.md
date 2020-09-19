@@ -88,4 +88,4 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 
 [Deep Mevada](https://github.com/DeepMevada)
 
-[Meet Bhanabhagwanwala](https://github.com/Meetbhana9567)
+[Meet Bhanabhagwan](https://github.com/Meetbhana9567)
