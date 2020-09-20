@@ -95,3 +95,5 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 [Palak Varu](https://github.com/PalakVaru)
 
 [Fenil Patel](https://github.com/fenil420)
+
+[Mehul Andani](https://github.com/Mehul175)
