@@ -9,9 +9,9 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
     ```
     git clone <url>
     ```
-    
+
 3. ⌨ After cloning the repo, a folder will be created at location where you cloned the repo. There will be a **README.md** file in this folder. Open the file and make some changes according to your wish.
-4. 💾 After you have made your changes, save the file. 
+4. 💾 After you have made your changes, save the file.
 5. 💬 Now add the changes and then commit the changes with an appropriate message.
 
     ```
@@ -41,22 +41,22 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 
     ```
     [your-name](your-github-url)
-    
-    For example, 
+
+    For example,
     [John Doe](https://github.com/JohnD)
     ```
-    
+
 1. 📁 After doing the above steps, create a new folder in the repo folder on your computer and name it "Firstname-Lastname". For E.g., If your Firstname is "John" and Lastname is "Doe", then name the folder as `John-Doe`.
 1. 📄 Inside this folder, create a **README.md** file.
 1. ✍ Write something about yourself like your name, hobby, or something you are passionate about.( 🏈 | 💻 | 🎯)
-    
+
 1. 💬 Now add the changes and then create commit with commit message as your name.
 
     ```
     git add .
     git commit -m "Enter-your-name-here"
     ```
-    
+
 1. ➕ Add this repository as upstream.
 
     ```
@@ -66,7 +66,7 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 
     ```
     git pull upstream master
-    
+
     If any merge conflict occurs then resolve it by selecting ACCEPT BOTH CHANGES
     ```
     ```
@@ -78,8 +78,8 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
     ```
     git push origin master
     ```
-    
-1. ✔ Create A Pull Request (PR). 
+
+1. ✔ Create A Pull Request (PR).
 
 ### 🎉 Congratulations, for your first contribution to `<> DSC RNGPIT`. Your name will be displayed after we merge your PR.
 
@@ -87,5 +87,13 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 [Raj Kharvar](https://github.com/rajkharvar)
 
 [Deep Mevada](https://github.com/DeepMevada)
+
+[Jayesh Mungara](https://github.com/Jay757)
+
+[Zubair-12](https://github.com/Zubair-12)
+
+[Palak Varu](https://github.com/PalakVaru)
+
+[Fenil Patel](https://github.com/fenil420)
 
 [Mehul Andani](https://github.com/Mehul175)
