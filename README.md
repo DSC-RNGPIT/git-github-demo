@@ -91,3 +91,5 @@ This repository contains guide to demonstrate the practical demo of Git and GitH
 [Jayesh Mungara](https://github.com/Jay757)
 
 [Zubair-12](https://github.com/Zubair-12)
+
+[Palak Varu](https://github.com/PalakVaru)
